@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Materials/M_Impact1.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Materials/M_Firering.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Materials/M_Dragon.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Textures/T_Noise_84.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Textures/T_Noise_85.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Textures/T_Noise_86.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Textures/T_Noise_87.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/VFX/NoiseTextures/T_Noise_87.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/VFX/NoiseTextures/T_Noise_86.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/VFX/NoiseTextures/T_Noise_85.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/VFX/NoiseTextures/T_Noise_84.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Materials/M_BuildUpCoreInside.uasset",
+				"E:/ABSCHLUSSARBEIT/S4G_410_Morten/Content/Abschlussarbeit/Materials/M_BuildUpCoreOutside.uasset"
+			]
+		}
+	]
+}
